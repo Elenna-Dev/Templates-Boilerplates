@@ -19,7 +19,7 @@
 [Open Repository](https://github.com/4GeeksAcademy/ai-engineering-company-project-monorepo)
 
 - **Typescript with Vite**: Use vite without front-end frameworks. Hot Deploy. ES7. Minimum configuration but professional workflow. Ideal for juniors starting with Typescript on Vite.  
-[Open Repository]([https://github.com/4GeeksAcademy/vanillajs-hello-vite](https://github.com/4GeeksAcademy/typescript-hello))
+[Open Repository](https://github.com/4GeeksAcademy/typescript-hello)
 
 - **Vanilla JS with Vite**: Use vite without front-end frameworks. Hot Deploy. ES7. Minimum configuration but professional workflow. Ideal for juniors starting on Vite.  
 [Open Repository](https://github.com/4GeeksAcademy/vanillajs-hello-vite)
