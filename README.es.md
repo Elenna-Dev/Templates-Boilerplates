@@ -19,7 +19,7 @@
 [Abrir repositorio](https://github.com/4GeeksAcademy/ai-engineering-company-project-monorepo)
 
 - **Typescript con Vite**: Usa Vite sin frameworks front-end. Despliegue rápido. Requiere muy poca configuración, pero con un flujo de trabajo profesional. Ideal para comenzar con Typescript en Vite.  
-[Abrir repositorio]([https://github.com/4GeeksAcademy/vanillajs-hello-vite](https://github.com/4GeeksAcademy/typescript-hello))
+[Abrir repositorio](https://github.com/4GeeksAcademy/typescript-hello)
 
 - **Vanilla JS con Vite**: Usa Vite sin frameworks front-end. Despliegue rápido. Requiere muy poca configuración, pero con un flujo de trabajo profesional. Ideal para comenzar con Vite.  
 [Abrir repositorio](https://github.com/4GeeksAcademy/vanillajs-hello-vite)
