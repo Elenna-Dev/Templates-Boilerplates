@@ -1,6 +1,6 @@
 <img align="right" src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32">
 
-# 4Geeks Academy's Templates and Boilerplates
+# 4Geeks Academy's Templates and Boilerplates.
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/Interactive-Tutorials/graphs/contributors) at [4Geeks Academy](http://4geeksacademy.co/)
 
